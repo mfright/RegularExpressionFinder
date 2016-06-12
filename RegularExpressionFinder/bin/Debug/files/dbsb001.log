@@ -1,0 +1,5 @@
+May  5 16:15:08 localhost kernel: pci 0000:00:15.3: BAR 13: failed to assign [io  size 0x1000]
+May  5 16:15:08 localhost kernel: pci 0000:00:15.4: BAR 13: no space for [io  size 0x1000]
+May  5 16:15:08 localhost kernel: pci 0000:00:15.4: BAR 13: failed to assign [io  size 0x1000]
+May  5 16:15:08 localhost kernel: pci 0000:00:15.5: BAR 13: no space for [io  size 0x1000]
+May  5 16:15:08 localhost kernel: pci 0000:00:15.5: BAR 13: failed to assign [io  size 0x1000]

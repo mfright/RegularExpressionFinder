@@ -1,0 +1,9 @@
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\bin\Debug\RegularExpressionFinder.exe.config
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\bin\Debug\RegularExpressionFinder.exe
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\bin\Debug\RegularExpressionFinder.pdb
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.csprojResolveAssemblyReference.cache
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.RegularExpressionFinder.resources
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.Properties.Resources.resources
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.csproj.GenerateResource.Cache
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.exe
+C:\Users\_\Documents\Visual Studio 2013\Projects\RegularExpressionFinder\RegularExpressionFinder\obj\Debug\RegularExpressionFinder.pdb

@@ -1,0 +1,12 @@
+[0]Your data.
+[1]SUNWscsd....Critical
+[2]Found ERROR.
+[0]Your data.
+[0]Found INFO
+[0]abcabcabc
+[3]EV_AGENT MYWORD .VNX5300-SP
+[4]scsi MYWORD WARNING
+[5]IOM0137
+[6]snap1_bk_master MYWORD failed
+[7]fctl MYWORD ...OFFLINE
+[8]ERROR :run_analyze not finished
